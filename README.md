@@ -1,5 +1,6 @@
 # Go-study2
- 
+
+https://www.youtube.com/watch?v=kPXfMFJ0oIE
 
 勉強を始める時（imageもpull）
 ```bash
